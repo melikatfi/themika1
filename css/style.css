@@ -16,3 +16,24 @@ h2 , h3{
 h4 , h5 , h6{
     color: #6A6E69;
 }
+header{
+    background-image: url('../img/header.jpeg');
+    max-width: 100%;
+    height: 42.25rem;
+    background-position: center;
+    position: relative;
+}
+.navbar{
+    position: absolute;
+    margin: 0.5rem 2rem;
+}
+.header div{
+    position: absolute;
+    top: 40%;
+    right: 0;
+    left: 0;
+    text-align: center;
+}
+.header h1{
+    font-size: 6rem;
+}
